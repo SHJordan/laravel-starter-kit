@@ -8,15 +8,16 @@
         "test:lint": "prettier --check resources/"
     },
     "devDependencies": {
-        "@tailwindcss/vite": "^4.1.13",
+        "@tailwindcss/vite": "^4.1.14",
         "concurrently": "^9.2.1",
         "laravel-vite-plugin": "^2.0.1",
-        "npm-check-updates": "^18.3.0",
+        "npm-check-updates": "^19.0.0",
         "playwright": "^1.55.1",
         "prettier": "^3.6.2",
         "prettier-plugin-organize-imports": "^4.3.0",
         "prettier-plugin-tailwindcss": "^0.6.14",
-        "tailwindcss": "^4.1.13",
-        "vite": "^7.1.7"
-    }
+        "tailwindcss": "^4.1.14",
+        "vite": "^7.1.8"
+    },
+    "packageManager": "pnpm@10.17.1+sha512.17c560fca4867ae9473a3899ad84a88334914f379be46d455cbf92e5cf4b39d34985d452d2583baf19967fa76cb5c17bc9e245529d0b98745721aa7200ecaf7a"
 }
